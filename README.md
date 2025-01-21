@@ -1,0 +1,1 @@
+This repository contains a simple COBOL program that demonstrates a common off-by-one error in loops. The program intends to calculate the sum of numbers from 1 to 10, but due to an incorrect loop condition, it produces an incorrect result. The solution demonstrates the correct loop condition to fix the error.
